@@ -1,0 +1,36 @@
+body{
+    font-family: 'Open Sans';
+    background-color: #EFEFEF;
+}
+div{
+    padding:30px;
+    border-radius:10px;
+    box-shadow:1px 5px 5px rgb(109, 106, 106);
+    margin:40px auto;
+    text-align: center;width: 600px;
+    background-color: white;
+}
+nav{
+    background-color: #373737;
+    padding: 5px;
+    margin: 0;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    border-radius: 100px;
+    margin-top: 30px;
+}
+.list-link{
+    color:black;
+}
